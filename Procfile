@@ -1,1 +1,1 @@
-web: gunicorn nba_salary_dashboard:app
+web: python nba_salary_dashboard.py
