@@ -1,5 +1,7 @@
 # NBA Player Salary Prediction Dashboard - Data Science & Machine Learning
 
+https://nba-salary-prediction.onrender.com/
+
 This project focuses on analyzing NBA player performance data and predicting player salaries using data analysis and machine learning models. The analysis identifies key metrics influencing salaries and provides actionable insights through data visualization, database queries, and modeling.
 
 ---
@@ -82,7 +84,7 @@ We derived new variables from existing ones to better capture underlying pattern
 2. Integrated sliders and dropdowns for real-time input of player stats.
 3. Displayed predicted salaries using the best-performing Random Forest Regressor model.
 4. Enhanced user accessibility with visual styling, animations, and responsiveness for mobile devices.
-5. This is deployed using Heroku. Here is the link: 
+5. This is deployed using Render. Here is the link: https://nba-salary-prediction.onrender.com/
 
 ---
 
@@ -213,7 +215,8 @@ To enable the local dashboard in Jupyter Notebook, follow these steps:
 
 To enable the web dashboard, follow these steps:
 
-1. **Run the dashboard**:
+1. **Run the dashboard locally**:
    Run the following commands to run the web dashboard
    ```bash
-   python nba_salary_dashboard.py
+   python nba_salary_dashboard.py4
+2. OR, explore the dashboard through the Render site!
