@@ -1,1 +1,1 @@
-web: gunicorn nba_salary_dashboard:app.server
+web: gunicorn nba_salary_dashboard:app
